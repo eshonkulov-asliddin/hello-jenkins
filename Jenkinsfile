@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Hello') {
       steps {
-        bat 'Hello Jenkins'
+        bat 'Hello Jenkins!'
       }
     }
 
